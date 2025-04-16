@@ -1,9 +1,9 @@
 ---
-  <p> 🤖 Linguagens
+  <p> 🤖 Linguagens e Tecnologias
    
 ---
 
- 
+
 
 <img align="left"
   title="HTML5"
@@ -57,6 +57,20 @@
   style="padding-right:10px;"
   width="35px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+
+<br>
+<br>
+<br>
+<p>
+  <img 
+    src="https://www.svgrepo.com/show/67493/statistics.svg" 
+    width="15px" 
+    alt="estatísticas icon" 
+    style="vertical-align: middle; padding-right: 8px;" />
+  <strong style="font-size: 1.1em;">Estatísticas</strong>
+</p>
+
+
 
 
 
