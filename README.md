@@ -69,9 +69,10 @@
     style="vertical-align: middle; padding-right: 8px;" />
   <strong style="font-size: 1.1em;">Estatísticas</strong>
 </p>
-
-![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=paulo-demetrio&show_icons=true&theme=dracula)
-
+  <img align="left"
+  style="padding-right:10px;"
+  width="400px"
+  src="https://github-readme-stats.vercel.app/api?username=paulo-demetrio&show_icons=true&theme=dracula&includes_allcommits=true&locale=pt-br" />
 
 
   
