@@ -70,7 +70,7 @@
   <strong style="font-size: 1.1em;">Estatísticas</strong>
 </p>
 
-
+![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=paulo-demetrio&show_icons=true&theme=dracula)
 
 
 
