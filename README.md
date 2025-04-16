@@ -1,8 +1,8 @@
 ---
 <img  
   aling="left"
-  alt="robô"
+  alt="Robô"
   title="Rosto de robô"
-  width="30px"
+  width="10px"
   style="padding-right:10px;">
 ---
