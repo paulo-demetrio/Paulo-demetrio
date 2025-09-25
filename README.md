@@ -1,10 +1,10 @@
-### About me
+#### About me
 - Desenvolvedor full Stack
 - Pronomes: ele/dele
 - Estudando Csharp
 
 ---
-  <p> 🤖 Linguagens e Tecnologias
+  <p> 🤖 Languages ​​and Technologies
    
 ---
 
