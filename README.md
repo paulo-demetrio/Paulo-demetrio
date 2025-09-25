@@ -35,12 +35,21 @@
   width="35px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 
+<img  align="left"
+    title="React"
+  alt="react icon"
+  style="padding-right:10px;"
+  width="35px" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/atom/atom-original.svg" />
+        
+
   <img align="left"
-    title="Git"
-  alt="Git icon"
+    title="Github"
+  alt="Github icon"
   style="padding-right:10px;"
   width="35px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    class="devicon-github-original"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 
   <img align="left"
     title="JSON"
@@ -50,13 +59,31 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
 
 
-
-  <img align="left"
-    title="PHP"
-  alt="php icon"
+<img align="left"
+    title="NodeJs"
+  alt="Node icon"
   style="padding-right:10px;"
   width="35px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+          
+
+  
+
+<img 
+  align="left"
+    title="MySql & PostgreSql"
+  alt="database icon"
+  style="padding-right:10px;"
+  width="35px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+
+<img   align="left"
+    title="Docker"
+  alt="Docker icon"
+  style="padding-right:10px;"
+  width="35px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+                   
 
 <br>
 <br>
